@@ -190,49 +190,57 @@ sudo rmmod monitor
 <img width="804" height="453" alt="image" src="https://github.com/user-attachments/assets/ef9e359c-b23d-47d8-a5f5-b5c1e623ed8d" />
 <img width="1038" height="164" alt="image" src="https://github.com/user-attachments/assets/3266de2c-a341-481d-bba3-9c259864889a" />
 <img width="848" height="442" alt="image" src="https://github.com/user-attachments/assets/e573ca98-aea2-4739-b069-c45285b0af73" />
-**Caption: Two containers running simultaneously under a single supervisor.**
+<br>
+Caption: Two containers running simultaneously under a single supervisor.
 
 ---
 
 ### 2 — Metadata Tracking
 <img width="1038" height="704" alt="image" src="https://github.com/user-attachments/assets/f5bfc77d-2615-4274-a5c5-d2b69543ef1a" />
-**Caption:** Container metadata tracking and kernel memory monitoring output
+<br>
+Caption: Container metadata tracking and kernel memory monitoring output
 
 ---
 
 ### 3 — Bounded-Buffer Logging
 <img width="440" height="173" alt="image" src="https://github.com/user-attachments/assets/367f1bb5-d451-4883-9bbb-3ee6a60a0c2b" />
-**Caption:** Output of `./engine logs alpha` showing container stdout captured by the logging system
+<br>
+Caption: Output of `./engine logs alpha` showing container stdout captured by the logging system
 
 ---
 
 ### 4 — CLI and IPC
 <img width="419" height="56" alt="image" src="https://github.com/user-attachments/assets/9069c19c-26d9-4865-882c-fa40825f15ab" />
-**Caption:** Stopping containers using the CLI and updating their state in the supervisor
+<br>
+Caption: Stopping containers using the CLI and updating their state in the supervisor
 
 ---
 
 ### 5 — Soft-Limit Warning
 <img width="769" height="209" alt="image" src="https://github.com/user-attachments/assets/ace6fdef-3532-47cd-b801-2436fa60832b" />
-**Caption:** Kernel log output showing soft memory limit warning for a container
+<br>
+Caption: Kernel log output showing soft memory limit warning for a container
 
 ---
 
 ### 6 — Hard-Limit Enforcement
 <img width="770" height="208" alt="image" src="https://github.com/user-attachments/assets/6fb478a3-34a1-4ef6-8df9-e8795baad79f" />
-**Caption:** Hard memory limit enforcement with process termination and corresponding state update in ps output
+<br>
+Caption: Hard memory limit enforcement with process termination and corresponding state update in ps output
 
 ---
 
 ### 7 — Scheduling Experiment
 <img width="926" height="830" alt="image" src="https://github.com/user-attachments/assets/8c1e1451-aa64-4b44-b1e6-8b5790326eef" />
-**Caption:** Logs from two CPU-bound containers showing the impact of scheduling priority
+<br>
+Caption: Logs from two CPU-bound containers showing the impact of scheduling priority
 
 ---
 
 ### 8 — Clean Teardown
 <img width="1038" height="348" alt="image" src="https://github.com/user-attachments/assets/092da57b-7d60-4a62-94d3-1a56ed370534" />
-**Caption:** Cleanup sequence showing supervisor termination and kernel module unloading with container unregister events
+<br>
+Caption: Cleanup sequence showing supervisor termination and kernel module unloading with container unregister events
 
 ---
 
