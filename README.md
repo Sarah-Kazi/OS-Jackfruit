@@ -190,7 +190,7 @@ sudo rmmod monitor
 <img width="804" height="453" alt="image" src="https://github.com/user-attachments/assets/ef9e359c-b23d-47d8-a5f5-b5c1e623ed8d" />
 <img width="1038" height="164" alt="image" src="https://github.com/user-attachments/assets/3266de2c-a341-481d-bba3-9c259864889a" />
 <img width="848" height="442" alt="image" src="https://github.com/user-attachments/assets/e573ca98-aea2-4739-b069-c45285b0af73" />
-**Caption:** Two containers running simultaneously under a single supervisor.
+**Caption: Two containers running simultaneously under a single supervisor.**
 
 ---
 
